@@ -1,2 +1,2 @@
-# Waether-Apalication-Using-React-main
+# Waether-Application-Using-React-main
 https://weather-aplication-react.netlify.app/
